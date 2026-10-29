@@ -1,0 +1,21 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Raw dataset - do not upload
+data/
+
+# Environment secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
